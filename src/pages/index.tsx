@@ -7,8 +7,8 @@ const Home: NextPage = () => {
 
   return (
     <>
-      <main className="flex min-h-screen flex-col items-center bg-slate-200 pt-[5rem]">
-        <div className="bg-slate-50 w-[70%] p-4 drop-shadow-sm rounded">hola</div>
+      <main className="flex min-h-screen flex-col items-center bg-[#F2F2F2] pt-[5rem]">
+        <div className="bg-white w-[70%] p-4 drop-shadow-sm rounded">hola</div>
       </main>
     </>
   );
